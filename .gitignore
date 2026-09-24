@@ -2,7 +2,7 @@
 # .*
 
 # original blender rigify
-rigify_original/
+# rigify_original/
 
 # python temp paths
 __pycache__/
